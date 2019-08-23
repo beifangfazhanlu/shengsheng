@@ -2,9 +2,13 @@ package com.beifangfazhanlu.shengsheng;
 
 import com.sun.org.apache.xerces.internal.impl.dv.util.HexBin;
 
+import java.util.stream.IntStream;
+
 public class Bit {
     public static void main(String[] args) {
         //打印 ASCII 字符集
+
+        System.out.println("====================================打印 ASCII 字符集=========================================");
         char index = 0;
         String s = "";
         while (index < 128){
@@ -48,7 +52,21 @@ public class Bit {
             s += index;
             index++;
         }
+        System.out.println("====================================打印 UNICODE 字符集=========================================");
+        IntStream.range(0, 19000)
+                .mapToObj(i -> "Char: " + i + " ==> " + new String(Character.toChars(i)))
+                .forEach(System.out::println);
 
+        index = 0;
+        s = "";
+        while (index <19000){
+           s= new String(Character.toChars(index));
+            System.out.println(s.getBytes());
+            System.out.println(s);
+            String hex = HexBin.encode(s.getBytes());
+            System.out.println(hex);
+            index++;
+        }
 
     }
 
