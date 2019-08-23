@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e41649cf-badc-4947-92ad-579a2120caf1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/doc/原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/原理.md" afterDir="false" />
-    </list>
+    <list default="true" id="e41649cf-badc-4947-92ad-579a2120caf1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/core/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/doc/原理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="447">
-                <caret line="208" column="2" selection-start-line="208" selection-start-column="2" selection-end-line="208" selection-end-column="2" />
+              <first_editor relative-caret-position="466">
+                <caret line="209" column="2" lean-forward="true" selection-start-line="209" selection-start-column="2" selection-end-line="209" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -267,12 +265,12 @@
       <option name="presentableId" value="Default" />
       <updated>1566430555306</updated>
       <workItem from="1566430559536" duration="11878000" />
-      <workItem from="1566524215132" duration="8349000" />
+      <workItem from="1566524215132" duration="8415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20227000" />
+    <option name="totallyTimeSpent" value="20293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1928" height="1060" extended-state="6" />
@@ -404,8 +402,8 @@
     <entry file="file://$PROJECT_DIR$/doc/原理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="447">
-            <caret line="208" column="2" selection-start-line="208" selection-start-column="2" selection-end-line="208" selection-end-column="2" />
+          <first_editor relative-caret-position="466">
+            <caret line="209" column="2" lean-forward="true" selection-start-line="209" selection-start-column="2" selection-end-line="209" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
