@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e41649cf-badc-4947-92ad-579a2120caf1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doc/原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/原理.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/core/target/" />
@@ -18,9 +17,9 @@
       <file leaf-file-name="原理.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/doc/原理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="1772">
-                <caret line="128" column="4" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="4" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="447">
+                <caret line="208" column="2" selection-start-line="208" selection-start-column="2" selection-end-line="208" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -268,15 +267,16 @@
       <option name="presentableId" value="Default" />
       <updated>1566430555306</updated>
       <workItem from="1566430559536" duration="11878000" />
-      <workItem from="1566524215132" duration="7676000" />
+      <workItem from="1566524215132" duration="8349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19554000" />
+    <option name="totallyTimeSpent" value="20227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1928" height="1060" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -403,9 +403,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/doc/原理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="1772">
-            <caret line="128" column="4" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="4" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="447">
+            <caret line="208" column="2" selection-start-line="208" selection-start-column="2" selection-end-line="208" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
